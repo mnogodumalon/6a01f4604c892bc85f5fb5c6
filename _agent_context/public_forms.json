@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "begrueßung",
+      "app_id": "6a01f44fd41cb6e6da04a8fa",
+      "path": "/rest/apps/6a01f44fd41cb6e6da04a8fa/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "nachricht"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Begrüßung — Formular"
+    }
+  ]
+}
